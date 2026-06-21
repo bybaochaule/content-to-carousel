@@ -1,0 +1,22 @@
+interface:
+  display_name: "Content To Carousel"
+  short_description: "Turns content or topics into ready-to-post social carousels with copy, structure, image prompts, and one-at-a-time generated images."
+  default_prompt: "Create a platform-ready social carousel from my content or topic without using design tools."
+
+policy:
+  allow_implicit_invocation: true
+
+dependencies:
+  tools:
+    - image_generation
+  files:
+    - SKILL.md
+    - README.md
+    - references/style-guide.md
+    - references/format-options.md
+    - references/image-prompt-rules.md
+    - assets/briefing-template.md
+    - assets/image-prompt-template.md
+    - assets/post-series-plan-template.json
+    - scripts/image_prompt_linter.py
+    - scripts/plan_linter.py
