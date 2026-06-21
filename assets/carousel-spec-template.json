@@ -1,0 +1,84 @@
+{
+  "platform": "LinkedIn",
+  "audience": "Busy professional readers",
+  "goal": "Educate",
+  "angle": "How-to",
+  "content_promise": "Turn one idea into a clear, swipeable lesson.",
+  "slides": [
+    {
+      "number": 1,
+      "role": "Hook",
+      "headline": "Your hook goes here",
+      "body": "Use one short promise or tension line.",
+      "visual_direction": "Large headline, minimal supporting visual.",
+      "creator_note": "Make the promise specific to the reader.",
+      "alt_text": "Opening slide with a large headline introducing the carousel promise."
+    },
+    {
+      "number": 2,
+      "role": "Context",
+      "headline": "Name the problem",
+      "body": "Explain why the reader should care.",
+      "visual_direction": "Simple problem statement with one icon or contrast block.",
+      "creator_note": "Keep this grounded in the source material.",
+      "alt_text": "Slide explaining the reader problem and why it matters."
+    },
+    {
+      "number": 3,
+      "role": "Reframe",
+      "headline": "Show the better lens",
+      "body": "Turn the problem into a new way of thinking.",
+      "visual_direction": "Before-after split or two-column contrast.",
+      "creator_note": "Make the reframe memorable and simple.",
+      "alt_text": "Slide contrasting the old way with a better perspective."
+    },
+    {
+      "number": 4,
+      "role": "Step",
+      "headline": "Step one",
+      "body": "Give the first practical action.",
+      "visual_direction": "Numbered step with one supporting symbol.",
+      "creator_note": "Use a verb-led instruction.",
+      "alt_text": "Slide presenting the first action step."
+    },
+    {
+      "number": 5,
+      "role": "Step",
+      "headline": "Step two",
+      "body": "Give the second practical action.",
+      "visual_direction": "Numbered step with a short example.",
+      "creator_note": "Connect this to the previous slide.",
+      "alt_text": "Slide presenting the second action step."
+    },
+    {
+      "number": 6,
+      "role": "Step",
+      "headline": "Step three",
+      "body": "Give the third practical action.",
+      "visual_direction": "Numbered step with a simple checklist item.",
+      "creator_note": "Keep it easy to apply.",
+      "alt_text": "Slide presenting the third action step."
+    },
+    {
+      "number": 7,
+      "role": "Recap",
+      "headline": "The quick recap",
+      "body": "Summarize the key lesson in three short bullets.",
+      "visual_direction": "Three-item checklist or mini framework.",
+      "creator_note": "Make this slide save-worthy.",
+      "alt_text": "Slide summarizing the carousel's key lessons."
+    },
+    {
+      "number": 8,
+      "role": "CTA",
+      "headline": "Try this next",
+      "body": "Invite one clear action that matches the goal.",
+      "visual_direction": "Simple final prompt with room for a CTA.",
+      "creator_note": "Avoid asking for too many actions.",
+      "alt_text": "Final slide inviting the reader to take one next step."
+    }
+  ],
+  "caption": "Add context that does not simply repeat the slides.",
+  "cta": "Invite one clear next action.",
+  "hashtags": []
+}

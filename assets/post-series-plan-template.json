@@ -1,0 +1,65 @@
+{
+  "platform": "Instagram",
+  "dimensions": "1080x1350",
+  "goal": "Save-worthy educational post",
+  "audience": "Specific target viewer",
+  "main_takeaway": "The one idea the viewer should remember",
+  "cta": "Save this for later",
+  "brand": {
+    "colors": [
+      "#1A2B3C",
+      "#F5A623",
+      "#FFFFFF"
+    ],
+    "style": "clean modern sans-serif, premium, high contrast",
+    "logo": "yes/no and placement"
+  },
+  "format": "Checklist, cheat sheet, or framework",
+  "image_count": 7,
+  "images": [
+    {
+      "number": 1,
+      "headline": "Short Hook",
+      "supporting_text": "One to two lines max.",
+      "visual_direction": "One focal visual, generous whitespace, brand colors."
+    },
+    {
+      "number": 2,
+      "headline": "Name The Problem",
+      "supporting_text": "Show the friction your audience already feels.",
+      "visual_direction": "Simple contrast between old way and better way."
+    },
+    {
+      "number": 3,
+      "headline": "Reframe The Idea",
+      "supporting_text": "Make the core belief easier to remember.",
+      "visual_direction": "Bold typographic statement with one supporting icon."
+    },
+    {
+      "number": 4,
+      "headline": "Give The Framework",
+      "supporting_text": "Break the solution into a simple mental model.",
+      "visual_direction": "Clean diagram with one central concept."
+    },
+    {
+      "number": 5,
+      "headline": "Show The Example",
+      "supporting_text": "Make the advice feel real and usable.",
+      "visual_direction": "Concrete before-and-after text treatment."
+    },
+    {
+      "number": 6,
+      "headline": "Make It Actionable",
+      "supporting_text": "Give the viewer one thing to do next.",
+      "visual_direction": "Checklist style layout with one highlighted action."
+    },
+    {
+      "number": 7,
+      "headline": "Save This",
+      "supporting_text": "End with a clear recap and CTA.",
+      "visual_direction": "Strong CTA card with brand colors and logo placement."
+    }
+  ],
+  "caption": "Optional post caption.",
+  "notes": "Assumptions, source notes, or factual checks."
+}
